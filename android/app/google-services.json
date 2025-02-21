@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91334849872",
+    "project_id": "piecloud-449a5",
+    "storage_bucket": "piecloud-449a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91334849872:android:33d2ebd5768abb68292855",
+        "android_client_info": {
+          "package_name": "com.example.piecloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSrq_X0Zml5rxiGlyKycIPktAgYPC9kko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
