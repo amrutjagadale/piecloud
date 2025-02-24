@@ -29,7 +29,6 @@ class MyApp extends StatelessWidget {
 class LoginPage extends StatefulWidget {
   final String? prefilledEmail; // Add this parameter
 
-
   const LoginPage({Key? key, this.prefilledEmail}) : super(key: key);
 
   @override
@@ -203,3 +202,5 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
+
+

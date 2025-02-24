@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 // Make sure you have a LoginPage that accepts a prefilledEmail parameter.
 import 'TermPage.dart';
-import 'main.dart';
+import 'Login.dart';
 
 class RegisterPage extends StatefulWidget {
   @override
